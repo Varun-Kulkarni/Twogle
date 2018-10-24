@@ -1,0 +1,113 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Open+Sans');
+html {
+    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.logo {
+    margin: auto;
+    width: 40%;
+    margin-top: 5%;
+}
+.logo img {
+    width: 100%
+}
+.search {
+    width: 50%;
+    margin: auto;
+    padding-top: 40px;
+}
+.search input[type=text] {
+    font-family: 'Open Sans', sans-serif;
+    height: 50px;
+    vertical-align: middle;
+    border-radius: 22.5px 0 0 22.5px;
+    width: 80%;
+    background: #f2f2f2;
+    border-style: none;
+    float: left;
+    font-size: 14px;
+    color: #4d4d4d;
+    padding: 0 0 0 10px;
+}
+.search input[type=text] {
+    font-family: 'Open Sans', sans-serif;
+    height: 50px;
+    vertical-align: middle;
+    border-radius: 22.5px 0 0 22.5px;
+    width: 90%;
+    background: #f2f2f2;
+    border-style: none;
+    float: left;
+    font-size: 14px;
+    color: #4d4d4d;
+    padding: 0 0 0 10px;
+}
+.search input [type=submit] {
+    display: block;
+}
+.search button {
+    font-family: 'Open Sans', sans-serif;
+    height: 100%;
+    vertical-align: middle;
+    border-radius: 0 22.5px 22.5px 0;
+    width: 5%;
+    background: #f2f2f2;
+    border-style: none;
+    color: #a6a6a6;
+}
+input:focus {
+    outline-width: 0;
+}
+button:focus {
+    outline-width: 0;
+}
+button img:focus {
+    outline-width: 0;
+}
+.submit {
+    height: 50px
+}
+button img {
+    margin-right: -5%;
+    height: 80%;
+    float: right;
+    vertical-align: middle;
+}
+image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.subtext {
+    font-size: small;
+line-height: 1.5;
+word-wrap: break-word;
+/* padding-left: 10%; */
+width: 80%;
+margin: auto;
+padding-top: 5px;
+padding-bottom: 10px;
+}
+.link-container {
+    width: 100%;
+    padding: 5px
+}
+.hyperlink {
+    font-size: large;
+    padding-left: 5%;
+}
+
+.search {
+    font-style: italic;
+    font-size: medium;
+    padding-left: 5%;
+}
+.subtext {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 18px;
+}
+</style>
